@@ -1,2 +1,2 @@
-# priteshgohil.github.io
-Interactive Website
+# Life is Beutiful
+Dare to Dream
