@@ -1,3 +1,3 @@
 # Pritesh Gohil
 
-[how to write markdown file] (https://guides.github.com/features/mastering-markdown/)
+1. [how to write markdown file] (https://guides.github.com/features/mastering-markdown) 
