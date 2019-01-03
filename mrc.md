@@ -1,4 +1,4 @@
-# Important Links on few of the topics
+# important topics in mathematics for robotics and control
 
 1. Do you ever wonder that how PCA works? Then check here --> [what is Principal Component Analysis(PCA)](https://www.youtube.com/watch?v=L-pQtGm3VS8&t=1508s)
 2. [Visual representation of SVD](https://www.youtube.com/watch?v=R9UoFyqJca8)
