@@ -4,3 +4,4 @@
 2. [Visual representation of SVD](https://www.youtube.com/watch?v=R9UoFyqJca8)
 3. Basics about Jacobian --> [Jacobian](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian/v/the-jacobian-determinant)
 4. Introduction [to Discrete Random Variable](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
+5. Graphical representation of [partial derivative](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-and-graphs)
