@@ -1,2 +1,2 @@
 # Life is Beutiful
-Dare to Dream
+Dare to Dream!
