@@ -1,2 +1,2 @@
-# Life is Beutiful
+# Platform to share knowledge
 Dare to Dream!
