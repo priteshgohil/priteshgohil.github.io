@@ -1,7 +1,8 @@
 Jupyter kernal is not strating after installing the anaconda in Ubuntu 16.04
 
 
-```the error was as below:
+```
+the error was as below:
 [I 12:47:09.993 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
 [I 12:47:25.534 NotebookApp] Kernel started: dee8857d-6d34-4182-a33b-0d26df67049a
 /home/pritesh/anaconda3/bin/python: No module named ipykernel_launcher
@@ -18,6 +19,7 @@ WARNING:root:kernel dee8857d-6d34-4182-a33b-0d26df67049a restarted
 
 __Solution__
 reinstall the ipykernel
-```pip uninstall ipykernel
+```
+pip uninstall ipykernel
 pip install ipykernel
 ```
