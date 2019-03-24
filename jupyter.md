@@ -18,6 +18,7 @@ WARNING:root:kernel dee8857d-6d34-4182-a33b-0d26df67049a restarted
 ```
 
 __Solution__
+
 reinstall the ipykernel
 ```
 pip uninstall ipykernel
