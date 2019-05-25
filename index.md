@@ -5,3 +5,4 @@
 3. [How to write markdown file](https://guides.github.com/features/mastering-markdown) 
 4. [Learn any technologies quickly by](https://www.javatpoint.com/)
 5. [Jupyter kernal is not strating after installing the anaconda in Ubuntu 16.04](jupyter.md)
+6. [An introduction to Anaconda: what it is, and how to install it in ubuntu](https://medium.freecodecamp.org/how-to-install-anaconda-on-ubuntu-16-04-64-bit-6f1c4675ce44)
