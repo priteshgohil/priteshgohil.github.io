@@ -6,3 +6,4 @@
 4. [New to computer science? Explore the options here](https://www.javatpoint.com/)
 5. [Jupyter kernal is not strating after installing the anaconda in Ubuntu 16.04](jupyter.md)
 6. [An introduction to Anaconda: what is it, and how to install it in ubuntu](https://medium.freecodecamp.org/how-to-install-anaconda-on-ubuntu-16-04-64-bit-6f1c4675ce44)
+7. [Resolve conflict between ROS  python2.x and OpenCv python3.x](OpencvVsRos.md)
