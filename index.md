@@ -8,3 +8,4 @@
 6. [An introduction to Anaconda: what is it, and how to install it in ubuntu](https://medium.freecodecamp.org/how-to-install-anaconda-on-ubuntu-16-04-64-bit-6f1c4675ce44)
 7. [Resolve conflict between ROS  python2.x and OpenCv python3.x](opencvVsRos.md)
 8. [Computer vision techniques that you might need to work with vision](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
+9. [Books that I read other than educational](books.md)
