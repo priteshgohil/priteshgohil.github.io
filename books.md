@@ -1,4 +1,5 @@
-![How I braved anu aunty and co-founded a million dollar company](books/varunA.jpg)
-![The Alchemist](books/pauloC.jpg)
-![Inner Engineering](books/sadhguru.jpg)
+<img src="books/varunA.jpg" width="350" height="500">
+<img src="books/pauloC.jpg" width="350" height="500">
+<img src="books/sadhguru.jpg" width="350" height="500">
+
 
