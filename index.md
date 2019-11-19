@@ -11,5 +11,7 @@
 9. [Books that I read other than educational](books.md)
 10. [Free image and video editing online tools](tools.md)
 
-# Finding specific string in linux
-Go to the specific directory and type `grep -r "yourstring here"`
+# Finding specific string and folder in linux
+String: Go to the specific directory and type `grep -r "yourstring here"`
+Folder or file: case sensitibe `find . -name "file name"`
+      : case insensitive `find . -iname "file name"`
