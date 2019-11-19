@@ -12,6 +12,7 @@
 10. [Free image and video editing online tools](tools.md)
 
 # Finding specific string and folder in linux
-String: Go to the specific directory and type `grep -r "yourstring here"`
-Folder or file: case sensitibe `find . -name "file name"`
-      : case insensitive `find . -iname "file name"`
+String: Go to the specific directory and type `grep -r "yourstring here"` <br>
+Folder or file: case sensitibe `find . -name "file name"`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+: case insensitive `find . -iname "file name"`
