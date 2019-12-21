@@ -12,6 +12,5 @@
 10. [Free image and video editing online tools](tools.md)
 
 # Finding specific string and folder in linux
-String: Go to the specific directory and type `grep -r "yourstring here"` <br>
-Find folder or file name: case sensitibe `find . -name "folder name"` & case insensitive `find . -iname "folder name"`
-Find file containing specific string: `grep -Ril "text-to-find-here" /` Use '/' to search from root, or '.' to search from current directory
+Find folder or file name: case sensitibe `find . -name "folder name"` & case insensitive `find . -iname "folder name"`<br>
+Find file containing specific string: `grep -Ril "text-to-find-here" /` Use '/' to search from root, or '.' to search from current directory <br>
