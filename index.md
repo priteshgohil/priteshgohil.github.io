@@ -13,4 +13,5 @@
 
 # Finding specific string and folder in linux
 String: Go to the specific directory and type `grep -r "yourstring here"` <br>
-Folder or file: case sensitibe `find . -name "file name"` & case insensitive `find . -iname "file name"`
+Find folder or file name: case sensitibe `find . -name "folder name"` & case insensitive `find . -iname "folder name"`
+Find file containing specific string: `grep -Ril "text-to-find-here" /` Use '/' to search from root, or '.' to search from current directory
