@@ -17,3 +17,13 @@ Find file containing specific string: `grep -Ril "text-to-find-here" /` Use '/' 
 
 # Linux development Environment of 2018 by Bruno Paz
 New to the ubuntu or still looking for some of the best tools to let your work done? Have a quick look at here save tons of time in finding right tools [Check his article here](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
+
+# Convert colour image to gray in linux
+This is simple command line argument to convert image into grayscale. <br>
+`convert -colorspace gray relu.png relu_BW.png` <br>
+
+# Get selected pages from pdf
+First install pdftk software
+`sudo apt install pdftk` <br>
+To create pdf from pages 5 to 20 from report.pdf `pdftk report.pdf cat 5-20 output Review_pages.pdf` <br>
+To create pdf from page (5, 10, 15-20) from report.pdf `pdftk report.pdf cat 5 10 15-20 output Review_pages.pdf`
