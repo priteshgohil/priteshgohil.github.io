@@ -10,6 +10,7 @@
 8. [Computer vision techniques that you might need to work with vision](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
 9. [Books that I read other than educational](books.md)
 10. [Free image and video editing online tools](tools.md)
+11. [Evaluation Metrics for 2D Object Detection](EvalMetric.md)
 
 # Finding specific string and folder in linux
 Find folder or file name: case sensitibe `find . -name "folder name"` & case insensitive `find . -iname "folder name"`<br>
