@@ -28,3 +28,6 @@ First install pdftk software
 `sudo apt install pdftk` <br>
 To create pdf from pages 5 to 20 from report.pdf `pdftk report.pdf cat 5-20 output Review_pages.pdf` <br>
 To create pdf from page (5, 10, 15-20) from report.pdf `pdftk report.pdf cat 5 10 15-20 output Review_pages.pdf`
+
+# Notes on Remote sensing
+http://wtlab.iis.u-tokyo.ac.jp/wataru/lecture/rsgis/rsnote/contents.htm
