@@ -31,3 +31,6 @@ To create pdf from page (5, 10, 15-20) from report.pdf `pdftk report.pdf cat 5 1
 
 # Notes on Remote sensing
 http://wtlab.iis.u-tokyo.ac.jp/wataru/lecture/rsgis/rsnote/contents.htm
+
+# Very Intuitive visualization of object detection IoU and GIoU.
+https://giou.stanford.edu/
