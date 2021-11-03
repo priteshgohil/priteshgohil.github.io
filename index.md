@@ -11,6 +11,7 @@
 9. [Books that I read other than educational](books.md)
 10. [Free image and video editing online tools](tools.md)
 11. [Evaluation Metrics for 2D Object Detection](EvalMetric.md)
+12. [XML](XML.md)
 
 # Finding specific string and folder in linux
 Find folder or file name: case sensitibe `find . -name "folder name"` & case insensitive `find . -iname "folder name"`<br>
